@@ -31,9 +31,7 @@ class Triangle
     x + y > z && x + z > y && y + z > x
   end 
   
-  def kosher_triangle3
-   
-  end
+  
 end
 
 
