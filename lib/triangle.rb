@@ -37,5 +37,5 @@ class TriangleError < StandardError
   
 end
 
-learn --f-f
+
 
