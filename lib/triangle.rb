@@ -30,6 +30,10 @@ class Triangle
   def kosher_triangle2 
     x + y > z && x + z > y && y + z > x
   end 
+  
+  def kosher_triangle3
+    x + y > z && x + z > y && y + z > x
+  end
 end
 
 
